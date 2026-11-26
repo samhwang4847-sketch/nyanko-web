@@ -1,9 +1,10 @@
 {
- "v": 2026112608,
+ "v": 2026112609,
  "ui_min": 2,
  "files": [
   "data.json",
   "schedule.json",
+  "img/ab.webp",
   "img/c0.webp",
   "img/c1.webp",
   "img/c2.webp",
