@@ -1,5 +1,5 @@
 {
- "v": 2026112604,
+ "v": 2026112605,
  "ui_min": 2,
  "files": [
   "data.json",
@@ -17,6 +17,8 @@
   "img/e0.webp",
   "img/e1.webp",
   "img/e2.webp",
+  "img/wall.svg",
+  "fonts/pretendard.woff2",
   "ui.bin"
  ]
 }
